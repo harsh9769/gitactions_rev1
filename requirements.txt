@@ -1,2 +1,2 @@
 pandas
-py-test
+pytest
